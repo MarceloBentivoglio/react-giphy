@@ -5,10 +5,7 @@ import '../assets/stylesheets/application.scss';
 
 const Hello = ({ name }) => {
   return (
-    <div>
-      Hello,
-      {name}
-    </div>
+    <div> Hello, {name} </div>
   );
 };
 
